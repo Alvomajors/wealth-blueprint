@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wealth Blueprint – Referral Program</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', Arial, sans-serif;
+      background: #f6f9fa;
+      color: #222;
+      margin: 0; padding: 0;
+    }
+    .hero {
+      background: linear-gradient(100deg, #23a6d5 0%, #23d5ab 100%);
+      color: #fff;
+      padding: 60px 20px 40px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+    .cta {
+      display: inline-block;
+      background: #fff;
+      color: #23a6d5;
+      font-weight: bold;
+      padding: 14px 32px;
+      border-radius: 30px;
+      text-decoration: none;
+      box-shadow: 0 4px 20px rgba(35,166,213,0.1);
+      transition: background 0.2s, color 0.2s;
+      border: 2px solid #fff;
+    }
+    .cta:hover {
+      background: #23a6d5;
+      color: #fff;
+      border: 2px solid #fff;
+    }
+    .section {
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 18px rgba(35, 166, 213, 0.08);
+    }
+    .section h2 {
+      color: #23a6d5;
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>Wealth Blueprint</h1>
+    <p>
+      Unlock new income streams by referring friends and earning instant PayPal rewards.<br>
+      Join our referral program and start building wealth from scratch—no investment needed!
+    </p>
+    <a href="#" class="cta">Coming Soon</a>
+  </div>
+  <div class="section">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Sign up for your unique referral link.</li>
+      <li>Invite friends, family, and your network.</li>
+      <li>Earn PayPal cash for every successful referral!</li>
+    </ol>
+    <h2>Why Join?</h2>
+    <ul>
+      <li>Easy to start—no upfront costs</li>
+      <li>Automated PayPal payouts</li>
+      <li>Transparent progress tracking</li>
+      <li>Supportive community and resources</li>
+    </ul>
+    <p><strong>Launching soon. Bookmark this page!</strong></p>
+  </div>
+  <footer>
+    &copy; 2025 Wealth Blueprint. All rights reserved.
+  </footer>
+</body>
+</html>
